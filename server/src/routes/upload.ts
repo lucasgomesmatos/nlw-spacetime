@@ -39,3 +39,4 @@ export async function uploadRoutes(app: FastifyInstance) {
     }
   })
 }
+// 37 min
